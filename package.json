@@ -1,5 +1,6 @@
 {
   "name": "svelte-app",
+  "homepage": "https://abhi-koradia.github.io/Tic-Tac-Toe",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
